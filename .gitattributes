@@ -1,0 +1,1 @@
+sprout-groth16.params filter=lfs diff=lfs merge=lfs -text
